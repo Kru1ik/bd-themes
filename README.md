@@ -9,9 +9,7 @@ List of my better discord themes. All themes are cofigurable.
   - [Simpe Dark](#simple-dark)
 
 ### Simple Dark
-[DOWNLOAD](https://kru1ik.github.io/bd-themes/Simple_dark/Simple_dark_kru1ik.theme.css "download")
-
-<a href="https://kru1ik.github.io/bd-themes/Simple_dark/Simple_dark_kru1ik.theme.css" download="huj.css">DOWNLOAD test</a>
+[DOWNLOAD](https://kru1ik.github.io/download.html?bd-themes/Simple_dark/Simple_dark_kru1ik.theme.css)
 
 (for now, there is no preview xd, sry)
 
